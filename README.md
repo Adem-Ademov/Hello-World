@@ -1,2 +1,3 @@
 # Hello-World
-Saying hello to the world for my new project
+Saying hello to the world from my first project!
+
